@@ -59,16 +59,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>2FLgJos5xiaBU/iPTySBPGWRFL9nBSSh5F01gEZlRH4=</dsig:DigestValue>
+      <dsig:DigestValue>AZl1UCKkp5qwxciMG4w9eSoCbEzD2mwkzgZGOHH7fHk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="BroshMailingList.Service.pdb" size="7588">
+  <file name="BroshMailingList.Service.pdb" size="7604">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>JMD4TGibTrzzY/vxiQj4I0dbvuUcuRwZcEl2Fb9YmsA=</dsig:DigestValue>
+      <dsig:DigestValue>6NREJoTlZ/vjJbKSHeFTF69nwtcDgB/YfAytM3+k/yo=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
