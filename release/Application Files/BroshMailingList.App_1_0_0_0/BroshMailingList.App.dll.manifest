@@ -59,7 +59,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AZl1UCKkp5qwxciMG4w9eSoCbEzD2mwkzgZGOHH7fHk=</dsig:DigestValue>
+      <dsig:DigestValue>tZmo6c1fuyWi2D/l1VvxYDzcWVM+VNUMeDk1yYMyr24=</dsig:DigestValue>
     </hash>
   </file>
   <file name="BroshMailingList.Service.pdb" size="7604">
