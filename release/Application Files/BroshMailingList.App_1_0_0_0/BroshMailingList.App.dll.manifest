@@ -53,13 +53,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="BroshMailingList.App.exe" size="186058">
+  <file name="BroshMailingList.App.exe" size="186064">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>tZmo6c1fuyWi2D/l1VvxYDzcWVM+VNUMeDk1yYMyr24=</dsig:DigestValue>
+      <dsig:DigestValue>HgCEUSIEjVllSsoswz3Jio19JejKwohNR/1PkVb3+ck=</dsig:DigestValue>
     </hash>
   </file>
   <file name="BroshMailingList.Service.pdb" size="7604">
@@ -68,7 +68,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6NREJoTlZ/vjJbKSHeFTF69nwtcDgB/YfAytM3+k/yo=</dsig:DigestValue>
+      <dsig:DigestValue>f3ktcbYkN1hItbzqCxVLaYb6WYTkGtFTS2neGNDdFdE=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
