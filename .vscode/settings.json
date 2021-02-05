@@ -23,7 +23,6 @@
         "doc/": true,
         "rdoc/": true,
         ".bundle/": true,
-        "vendor/bundle": true,
         "lib/bundler/man/": true,
         "**/.rvmrc": true,
         "**/_site/": true,
